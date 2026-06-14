@@ -1,10 +1,10 @@
-# 🤖 Basic Chatbot — CodeAlpha Python Internship Task 4
+# 💬 Basic Chatbot — Python Project
 
 A simple rule-based chatbot built in Python that responds to user messages using keyword matching and predefined replies.
 
 ## 📌 About the Project
 
-This project is part of the **CodeAlpha Python Programming Internship**. The goal was to build a basic conversational chatbot using if-elif logic, functions, and loops — no AI or ML libraries needed!
+A basic conversational chatbot using if-elif logic, functions, and loops — no AI or ML libraries needed!
 
 ## 🚀 Features
 
@@ -29,12 +29,12 @@ This project is part of the **CodeAlpha Python Programming Internship**. The goa
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CodeAlpha_BasicChatbot
-   cd CodeAlpha_BasicChatbot
+   git clone https://github.com/YOUR_USERNAME/BasicChatbot
+   cd BasicChatbot
    ```
 3. Run the script:
    ```bash
-   python task4_chatbot.py
+   python basic_chatbot.py
    ```
 
 ## 💬 Sample Conversation
@@ -75,18 +75,12 @@ Bot: Goodbye! Have a great day!
 ## 📁 Project Structure
 
 ```
-CodeAlpha_BasicChatbot/
+BasicChatbot/
 │
-├── task4_chatbot.py   # Main chatbot script
+├── basic_chatbot.py   # Main chatbot script
 └── README.md          # Project documentation
 ```
 
-## 🏢 Internship
-
-**Organization:** [CodeAlpha](https://www.codealpha.tech)  
-**Domain:** Python Programming  
-**Task:** Task 4 — Basic Chatbot
-
 ---
 
-> Made with ❤️ using Python during the CodeAlpha Internship Program.
+> Made with ❤️ using Python.
