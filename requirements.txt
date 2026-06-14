@@ -1,0 +1,8 @@
+# Task 4 - Basic Chatbot
+# No external libraries required.
+# This project uses only Python built-in modules.
+
+# Built-in modules used:
+# - None (pure Python if-elif logic, functions, and loops)
+
+# Python version recommended: 3.7+
